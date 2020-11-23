@@ -9,7 +9,8 @@ When using my element in XML/Java file, use the attribute "app:blinkingRate" to 
 
 
 
-[https://j.gifs.com/zvMNBq.gif]
+![]([https://j.gifs.com/zvMNBq.gif])
+
 
 
 
