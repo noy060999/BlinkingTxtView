@@ -20,6 +20,6 @@ allprojects {
 
 ```
 dependencies {
-	implementation 'com.github.noy060999:BlinkingTxtView:1.0.0'```
+	implementation 'com.github.noy060999:BlinkingTxtView:1.0.0'
 }
 ```
