@@ -1,11 +1,4 @@
-When using my element in XML/Java file, use the attribute "app:blinkingRate" to set the time between each blink.
-
-[For Demo -> Click Me! ](https://gifs.com/gif/blinkingtext-zvMNBq)
-
-
-
-
-
+**Demo:**
 
 
 
@@ -13,12 +6,8 @@ When using my element in XML/Java file, use the attribute "app:blinkingRate" to 
 
 
 
-
-
-
-
-
-
+**How To Use?**
+When using my element in XML/Java file, use the attribute "app:blinkingRate" to set the time between each blink.
 
 **Step 1. Add it in your root build.gradle at the end of repositories:**
 
