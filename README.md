@@ -5,7 +5,18 @@ When using my element in XML/Java file, use the attribute "app:blinkingRate" to 
 
 
 
+
+
+
+
 ![]([https://media.giphy.com/media/2iZf42ldfBnCqZ8fe0/giphy.gif])
+
+
+
+
+
+
+
 
 
 
