@@ -2,7 +2,23 @@ When using my element in XML/Java file, use the attribute "app:blinkingRate" to 
 
 [For Demo -> Click Me! ](https://gifs.com/gif/blinkingtext-zvMNBq)
 
+
+
+
+
+
+
+
 [https://j.gifs.com/zvMNBq.gif]
+
+
+
+
+
+
+
+
+
 
 
 
