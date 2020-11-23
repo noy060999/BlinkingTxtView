@@ -1,0 +1,3 @@
+include ':MyBlinkingTxt'
+include ':app'
+rootProject.name = "BlinkingTxtView"
