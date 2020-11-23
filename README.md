@@ -1,4 +1,6 @@
 When using my element in XML/Java file, use the attribute "app:blinkingRate" to set the time between each blink.
+
+
 [For Demo -> Click ME ! ](https://youtu.be/9QPYJK_yvnQ)
 
 
