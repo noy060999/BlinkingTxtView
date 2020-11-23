@@ -33,11 +33,11 @@ public class MyBlinkingTxt extends TextView{
         initBlinkAttr(context, attrs);
     }
 
-    //get the blinking rate from attr.xml
+    //get the blinking rate from attrs.xml
     private void initBlinkAttr(Context context, AttributeSet attrs) {
-        TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.BlinkingTxtView, 0, 0);
+        TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.MyBlinkingTxt, 0, 0);
         try {
-            blinkingRate = ta.getInt(R.styleable.BlinkingTxtView_blinkingRate, 0);
+            blinkingRate = ta.getInt(R.styleable.MyBlinkingTxt_blinkingRate, 0);
         } finally {
             ta.recycle();
         }
